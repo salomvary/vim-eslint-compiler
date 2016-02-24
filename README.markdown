@@ -45,5 +45,5 @@ Further information:
 
 **Note**: if you rather need inline ESLint feedback while editing or never
 want to check multiple files or whole projects a better option is
-[Syntastic](https://github.com/scrooloose/syntastic) which has built-in JSHint
+[Syntastic](https://github.com/scrooloose/syntastic) which has built-in ESLint
 support.
