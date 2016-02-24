@@ -20,7 +20,7 @@ The primary purpose of this script is to validate multiple files or folders
 recursively and help fixing issues from the quickfix window.
 
 ```vim
-:compiler jshint
+:compiler eslint
 
 "Validate current folder recursively:
 :make .
